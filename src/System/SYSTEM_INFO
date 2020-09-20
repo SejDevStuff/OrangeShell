@@ -1,0 +1,8 @@
+[MAIN]
+Name="Orange OS"
+Version="2.0"
+Install_Type="Public Release"
+Type="Commandline_Interface"
+MainScript="shell.py"
+LaunchScript="launch.cmd"
+RootDir="DYNAMIC_ROOTDIR"

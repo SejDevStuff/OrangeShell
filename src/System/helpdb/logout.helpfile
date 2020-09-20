@@ -1,0 +1,10 @@
+[BASIC]
+Name: "reboot"
+Syntax: "reboot"
+Examples: "reboot"
+
+[DESCRIPTION]
+The remove command requires 0 arguments. It's functionality is to kill the current shell and spawn a new
+one, essentially a log out.
+
+[ERRORS]

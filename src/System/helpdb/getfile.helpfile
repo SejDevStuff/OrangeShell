@@ -1,0 +1,11 @@
+[BASIC]
+Name: "getfile"
+Syntax: "getfile [URL]"
+Examples: "getfile http://81.98.50.63/FTP/OrangeOS/Docs/getfile.txt"
+
+[DESCRIPTION]
+The remove command requires 1 argument. URL. It's functionality is to download files off the internet
+
+[ERRORS]
+It will say an error if the URL is not correctly formatted (no http:// at beginning)
+It will say an error if the URL points at a directory (can not download directory)

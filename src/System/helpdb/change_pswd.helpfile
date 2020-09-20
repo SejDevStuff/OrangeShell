@@ -1,0 +1,20 @@
+[BASIC]
+Name: "change_pswd"
+Syntax: "change_pswd"
+Examples: "change_pswd"
+
+[DESCRIPTION]
+The change_pswd command changes the current user password by taking your new 
+password and hashing it. It will then remove the previous password-hash entry
+from the User Management System and add a new entry with the new hash.  
+
+[ERRORS]
+The following situations will cause errors and make change_pswd exit:
+#1: The password specified was just blank
+#2: The password specified is the same as the old password
+#3: The user could not authenticate the change_pswd by entering their current 
+password
+#4: The user could not verify their new password
+
+[EXTRAS]
+change_pswd has no extras.

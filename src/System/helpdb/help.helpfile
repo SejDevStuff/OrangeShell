@@ -1,0 +1,11 @@
+[BASIC]
+Name: "help"
+Syntax: "help [COMMANDS]"
+Examples: "help help"
+
+[DESCRIPTION]
+The contents command requires 1 argument. COMMANDS. It's functionality is to display the helpfile for a 
+command
+
+[ERRORS]
+The remove command will give out an error if the helpfile for the command is non-existent

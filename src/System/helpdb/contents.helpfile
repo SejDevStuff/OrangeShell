@@ -1,0 +1,11 @@
+[BASIC]
+Name: "contents"
+Syntax: "contents [SOURCE]"
+Examples: "contents file1.txt"
+
+[DESCRIPTION]
+The contents command displays the contents of a file by reading it and displaying it.
+
+[ERRORS]
+The remove command will give out an error if the source file does not exist or cannot be read.
+It will also give an error if the source file is a directory.

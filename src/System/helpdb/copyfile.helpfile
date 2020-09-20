@@ -1,0 +1,12 @@
+[BASIC]
+Name: "copy"
+Syntax: "copy [SOURCE] [DESTINATION]"
+Examples: "copy file1.txt file2.txt"
+
+[DESCRIPTION]
+The copy command requires 2 arguments. SOURCE and DESTINATION. It's functionality is to copy the file/folder
+found in SOURCE over to DESTINATION.
+
+[ERRORS]
+The copy command will give out an error if the source file does not exist or cannot be copied.
+It will also prompt you to confirm to overwrite the destination if it exists already

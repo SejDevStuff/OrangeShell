@@ -1,0 +1,18 @@
+[BASIC]
+Name: "cd"
+Syntax: "cd [DIRNAME]"
+Examples: "cd .."
+
+[DESCRIPTION]
+The cd command stands for change directory and when used, it changes the current working directory 
+of the OrangeOS shell to a different directory. This command was introduced in OrangeOS v1.0.0.
+cd also supports special directories such as .. for parent directory or . for current directory.
+
+[ERRORS]
+The following situations will cause an error and will cause the cd command to halt and return.
+#1: The argument you specified points to a file.
+#2: The argument you specified points to a non-existent directory.
+
+[EXTRAS]
+The cd command will automatically take you to your home directory if you provide it with no
+arguments, so just "cd" will take you to your home directory.

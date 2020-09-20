@@ -1,0 +1,10 @@
+[BASIC]
+Name: "update"
+Syntax: "update"
+Examples: "update"
+
+[DESCRIPTION]
+The remove command requires 0 arguments. It's functionality is to update OrangeOs
+
+[ERRORS]
+It will give an error if the server cannot be reached, a component is missing or the restore failed.

@@ -1,0 +1,11 @@
+[BASIC]
+Name: "mkusr"
+Syntax: "mkusr [USERNAME]"
+Examples: "mkusr User"
+
+[DESCRIPTION]
+The remove command requires 1 argument. USERNAME. It's functionality is to make a new user if one doesn't
+exist already
+
+[ERRORS]
+If the user exists, it will drop an error.

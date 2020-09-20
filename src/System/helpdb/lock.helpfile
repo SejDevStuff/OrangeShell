@@ -1,0 +1,11 @@
+[BASIC]
+Name: "lock"
+Syntax: "lock"
+Examples: "lock"
+
+[DESCRIPTION]
+The remove command requires 0 arguments. It's functionality is to lock the shell so the user can join back
+without having to type in their username again.
+
+[ERRORS]
+None

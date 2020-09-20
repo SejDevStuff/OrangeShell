@@ -1,0 +1,12 @@
+[BASIC]
+Name: "move"
+Syntax: "move [SOURCE] [DESTINATION]"
+Examples: "move file1.txt file2.txt"
+
+[DESCRIPTION]
+The move command requires 2 arguments. SOURCE and DESTINATION. It's functionality is to move the file/folder
+found in SOURCE over to DESTINATION.
+
+[ERRORS]
+The move command will give out an error if the source file does not exist or cannot be move.
+It will also prompt you to confirm to overwrite the destination if it exists already

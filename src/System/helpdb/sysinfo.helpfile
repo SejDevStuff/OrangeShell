@@ -1,0 +1,13 @@
+[BASIC]
+Name: "sysinfo"
+Syntax: "sysinfo"
+Examples: "sysinfo"
+
+[DESCRIPTION]
+The sysinfo command shows current information about OrangeShell
+
+[ERRORS]
+#1: If SYSTEM_INFO file does not exist
+
+[EXTRAS]
+No extras

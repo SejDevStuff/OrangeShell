@@ -1,0 +1,14 @@
+[BASIC]
+Name: "print"
+Syntax: "print [TEXT]"
+Examples: "print Hello World!"
+
+[DESCRIPTION]
+The print command prints the text specified to the screen. This should not be confused with
+the print_tf command which prints the text specified to a file specified.
+
+[ERRORS]
+None
+
+[EXTRAS]
+No extras

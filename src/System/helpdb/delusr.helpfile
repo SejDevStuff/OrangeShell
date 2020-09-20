@@ -1,0 +1,11 @@
+[BASIC]
+Name: "delusr"
+Syntax: "delusr [USERNAME]"
+Examples: "delusr User"
+
+[DESCRIPTION]
+The remove command requires 1 argument. USERNAME. It's functionality is to delete an existing user.
+
+[ERRORS]
+You cannot delete yourself, you must be logged in from a different account to do that.
+You cannot delete non-existing users.

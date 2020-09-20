@@ -1,0 +1,10 @@
+[BASIC]
+Name: "remove"
+Syntax: "remove [SOURCE]"
+Examples: "remove file1.txt"
+
+[DESCRIPTION]
+The remove command requires 1 argument. SOURCE. It's functionality is to delete the file/folder
+
+[ERRORS]
+The remove command will give out an error if the source file does not exist or cannot be deleted.

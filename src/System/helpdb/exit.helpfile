@@ -1,0 +1,13 @@
+[BASIC]
+Name: "exit"
+Syntax: "exit"
+Examples: "exit"
+
+[DESCRIPTION]
+The remove command requires 0 arguments. It's functionality is to exit the prompt and, if enabled,
+it will encrypt your home directory.
+
+[ERRORS]
+#1: Your home directory is non-existent.
+#2: Your home directory is already encrypted.
+#3: The software used to encrypt is not present.

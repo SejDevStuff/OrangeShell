@@ -1,0 +1,13 @@
+[BASIC]
+Name: "clear"
+Syntax: "clear"
+Examples: "clear"
+
+[DESCRIPTION]
+The clear command clears the screen.
+
+[ERRORS]
+None
+
+[EXTRAS]
+No extras

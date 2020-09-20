@@ -1,0 +1,18 @@
+[BASIC]
+Name: "lsdir"
+Syntax: "lsdir [DIRNAME]"
+Examples: "lsdir ."
+
+[DESCRIPTION]
+The lsdir command stands for "list directory" and its function is to list the contents of
+a directory. It requires 1 argument, DIRNAME. This argument specifies the directory to list
+the contents of
+
+[ERRORS]
+The following situations will cause an error and will cause the lsdir command to halt and 
+return.
+#1: The argument you specified points to a file.
+#2: The argument you specified points to a non-existent directory.
+
+[EXTRAS]
+No extras

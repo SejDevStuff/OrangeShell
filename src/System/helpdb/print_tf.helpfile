@@ -1,0 +1,18 @@
+[BASIC]
+Name: "print_tf"
+Syntax: "print_tf [TEXT] [FILE]"
+Examples: "print_tf Hello example.txt"
+
+[DESCRIPTION]
+The print_tf or print to file command writes [TEXT] to [FILE]
+Right now, it can only accept arguments without a space, if 
+[TEXT] had a space in it, the word after the space will be
+taken as [FILE]. Putting quotations in [TEXT] and [FILE]
+does not help as the file will not even be opened because it
+cant make files with quotations.
+
+[ERRORS]
+#1: The file cannot be opened for writing, it may contain illegal chars
+
+[EXTRAS]
+No extras.

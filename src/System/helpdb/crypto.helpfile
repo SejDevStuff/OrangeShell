@@ -1,0 +1,24 @@
+[BASIC]
+Name: "crypto"
+Syntax: "crypto [MODE] [RESOURCE]"
+Examples: "crypto eFile file.txt"
+
+[DESCRIPTION]
+The remove command requires 2 arguments; MODE and RESOURCE. It's functionality is to encrypt and decrypt files
+or entire folders.
+
+For MODE, you can have the following modes:
+eFile 		= Encrypt File
+dFile		= Decrypt File
+eDir		= Encrypt Dir
+dDir 		= Decrypt Dir
+
+Sadly, crypto does not yet support files with spaces in their name or files with bytes such as an exe file 
+or picture file. We are working on fixing these for version 2.0.0.
+
+[ERRORS]
+=> The file does not exist
+=> The directory does not exist
+=> File already encrypted
+=> File already decrypted
+=> File is in an unreadable format (.exe or picture files)

@@ -1,0 +1,24 @@
+--------------------------------------------------------------
+COMMAND NAME		|		HELP SYNTAX FOR COMMAND
+--------------------------------------------------------------
+help			|		help help
+change_pswd		|		help change_pswd
+contents		|		help contents
+copyfile		|		help copyfile
+delusr			|		help delusr
+exit			|		help exit
+getfile			|		help getfile
+lock			|		help lock
+mkusr			|		help mkusr
+move			|		help move
+logout			|		help logout
+remove			|		help remove
+cd			|		help cd
+update			|		help update
+crypto			|		help crypto
+lsdir			|		help lsdir
+print			|		help print
+print_tf		|		help print_tf
+clear			|		help clear
+sysinfo			| 		help sysinfo
+--------------------------------------------------------------
