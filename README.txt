@@ -1,11 +1,7 @@
-Sorry for the delays!! We are busy with other affairs for the moment so we cannot make OrangeShell just yet... DONT WORRY! We are STILL making OrangeShell, we have not given it up.
+All good things must come to an end.
+OrangeShell has stopped!
 
-PLEASE READ:
-We are going to port OrangeShell ENTIRELY to Linux. If you want to run this in Windows, please enable the Windows Subsystem For Linux, install your favourite distro (I would choose Debian) and install python3 and pip3
-After installing python3 and pip3 just use the bash shell to run "./launch.sh" and the shell should start.
-
-OrangeShell Status: RELEASED V1.5.0
-OrangeShell 2.0.0 is in production! Due release: JAN 2021
+DONT WORRY!! WE ARE MAKING ORANGEOS WHICH IS AN ACTUAL OS AND THIS WILL IMPLEMENT ORANGESHELL AND WILL BE A SUCCESSOR TO IT!
 =============================
 
 DOWNLOAD OrangeShell 1.5.0 FROM HERE AND NOT USING THE COMMAND "update" --> UpdateManager had a small syntax error which caused the update to fail. This should fix it.
