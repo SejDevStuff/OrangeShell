@@ -1,7 +1,7 @@
-All good things must come to an end.
-OrangeShell has stopped!
+We have NOT STOPPED ORANGESHELL!!
+We are rewriting everything to C.
 
-DONT WORRY!! WE ARE MAKING ORANGEOS WHICH IS AN ACTUAL OS AND THIS WILL IMPLEMENT ORANGESHELL AND WILL BE A SUCCESSOR TO IT!
+Release : Jan 2021
 =============================
 
 DOWNLOAD OrangeShell 1.5.0 FROM HERE AND NOT USING THE COMMAND "update" --> UpdateManager had a small syntax error which caused the update to fail. This should fix it.
