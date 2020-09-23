@@ -51,7 +51,7 @@ def makeUser(username):
 def setup():
 	print("Hi! Nice to have you here. Let's setup OrangeShell for the first time for you.")
 	print('We must set up a user account for you, so press any key to start the process.')
-	os.system('pause>nul')
+	os.system('read')
 	print('')
 	print('==> Setup is auto detecting any user accounts from the previous installation of OrangeShell ...')
 	rootdir = os.getcwd() + '/../'
