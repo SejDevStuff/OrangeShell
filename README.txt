@@ -1,5 +1,4 @@
 We have NOT STOPPED ORANGESHELL!!
-We are rewriting everything to C.
 
 PLEASE READ:
  We are going to port OrangeShell ENTIRELY to Linux. If you want to run this in Windows, please enable the Windows Subsystem For Linux, install your favourite distro (I would choose Debian) and install python3 and pip3
